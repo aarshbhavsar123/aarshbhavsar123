@@ -5,7 +5,7 @@
 </h3>
 
 ## **About Me:**
-I am a Final Year Student at DA-IICT. I am well versed with Problem Solving and an enthusiast for open source contribution. I keenly want to explore the domain other than problem solving and competitive programming and want to contribute in real world projects. I am familiar with technologies like MERN stack and well versed with relational and non-relational databases.
+I am a Final Year Student at DA-IICT with a strong foundation in problem-solving and a passion for open-source contribution. Eager to expand my horizons beyond competitive programming, I am keen to work on real-world projects that leverage my skills in the MERN stack and my proficiency with both relational and non-relational databases
 
 
 ## 🧰 Languages and Tools
