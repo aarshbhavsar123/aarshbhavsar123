@@ -29,6 +29,8 @@ I am a Final Year Student at DA-IICT with a strong foundation in problem-solving
   <img src="https://skillicons.dev/icons?i=git" height="30" width="30" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" width="30" alt="Postman" />
+  
+  <img src="https://skillicons.dev/icons?i=aws" height="30" width="30" alt="Postman" />
 
   <img src="https://skillicons.dev/icons?i=vscode" height="30" width="30" alt="VSC" /> 
   
